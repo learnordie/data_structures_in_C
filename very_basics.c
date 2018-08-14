@@ -1,3 +1,5 @@
+/* How to define a new data structure */
+
 #include <stdio.h>
 
 /* How to define a new data structure:
